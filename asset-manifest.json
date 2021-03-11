@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/DjorgeSilva/sphene-shop/static/js/main.97600b9c.chunk.js",
-    "main.js.map": "/DjorgeSilva/sphene-shop/static/js/main.97600b9c.chunk.js.map",
-    "runtime-main.js": "/DjorgeSilva/sphene-shop/static/js/runtime-main.d638557e.js",
-    "runtime-main.js.map": "/DjorgeSilva/sphene-shop/static/js/runtime-main.d638557e.js.map",
-    "static/js/2.83a09267.chunk.js": "/DjorgeSilva/sphene-shop/static/js/2.83a09267.chunk.js",
-    "static/js/2.83a09267.chunk.js.map": "/DjorgeSilva/sphene-shop/static/js/2.83a09267.chunk.js.map",
-    "index.html": "/DjorgeSilva/sphene-shop/index.html",
-    "static/js/2.83a09267.chunk.js.LICENSE.txt": "/DjorgeSilva/sphene-shop/static/js/2.83a09267.chunk.js.LICENSE.txt",
-    "static/media/slider.d8db0fd0.jpeg": "/DjorgeSilva/sphene-shop/static/media/slider.d8db0fd0.jpeg",
-    "static/media/slider1.5a6ba92d.jpeg": "/DjorgeSilva/sphene-shop/static/media/slider1.5a6ba92d.jpeg",
-    "static/media/slider2.591d1fe5.jpeg": "/DjorgeSilva/sphene-shop/static/media/slider2.591d1fe5.jpeg",
-    "static/media/slider3.2aa35e5a.jpeg": "/DjorgeSilva/sphene-shop/static/media/slider3.2aa35e5a.jpeg"
+    "main.js": "/sphene-shop/static/js/main.a68288cb.chunk.js",
+    "main.js.map": "/sphene-shop/static/js/main.a68288cb.chunk.js.map",
+    "runtime-main.js": "/sphene-shop/static/js/runtime-main.84a75680.js",
+    "runtime-main.js.map": "/sphene-shop/static/js/runtime-main.84a75680.js.map",
+    "static/js/2.2bed6ce8.chunk.js": "/sphene-shop/static/js/2.2bed6ce8.chunk.js",
+    "static/js/2.2bed6ce8.chunk.js.map": "/sphene-shop/static/js/2.2bed6ce8.chunk.js.map",
+    "index.html": "/sphene-shop/index.html",
+    "static/js/2.2bed6ce8.chunk.js.LICENSE.txt": "/sphene-shop/static/js/2.2bed6ce8.chunk.js.LICENSE.txt",
+    "static/media/slider.d8db0fd0.jpeg": "/sphene-shop/static/media/slider.d8db0fd0.jpeg",
+    "static/media/slider1.5a6ba92d.jpeg": "/sphene-shop/static/media/slider1.5a6ba92d.jpeg",
+    "static/media/slider2.591d1fe5.jpeg": "/sphene-shop/static/media/slider2.591d1fe5.jpeg",
+    "static/media/slider3.2aa35e5a.jpeg": "/sphene-shop/static/media/slider3.2aa35e5a.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d638557e.js",
-    "static/js/2.83a09267.chunk.js",
-    "static/js/main.97600b9c.chunk.js"
+    "static/js/runtime-main.84a75680.js",
+    "static/js/2.2bed6ce8.chunk.js",
+    "static/js/main.a68288cb.chunk.js"
   ]
 }
