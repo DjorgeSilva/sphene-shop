@@ -1,13 +1,27 @@
 {
   "files": {
-    "main.js": "/sphene-shop/static/js/main.a68288cb.chunk.js",
-    "main.js.map": "/sphene-shop/static/js/main.a68288cb.chunk.js.map",
+    "main.js": "/sphene-shop/static/js/main.d444aba1.chunk.js",
+    "main.js.map": "/sphene-shop/static/js/main.d444aba1.chunk.js.map",
     "runtime-main.js": "/sphene-shop/static/js/runtime-main.84a75680.js",
     "runtime-main.js.map": "/sphene-shop/static/js/runtime-main.84a75680.js.map",
-    "static/js/2.2bed6ce8.chunk.js": "/sphene-shop/static/js/2.2bed6ce8.chunk.js",
-    "static/js/2.2bed6ce8.chunk.js.map": "/sphene-shop/static/js/2.2bed6ce8.chunk.js.map",
+    "static/css/2.d649c8cc.chunk.css": "/sphene-shop/static/css/2.d649c8cc.chunk.css",
+    "static/js/2.2e6564ce.chunk.js": "/sphene-shop/static/js/2.2e6564ce.chunk.js",
+    "static/js/2.2e6564ce.chunk.js.map": "/sphene-shop/static/js/2.2e6564ce.chunk.js.map",
     "index.html": "/sphene-shop/index.html",
-    "static/js/2.2bed6ce8.chunk.js.LICENSE.txt": "/sphene-shop/static/js/2.2bed6ce8.chunk.js.LICENSE.txt",
+    "static/css/2.d649c8cc.chunk.css.map": "/sphene-shop/static/css/2.d649c8cc.chunk.css.map",
+    "static/js/2.2e6564ce.chunk.js.LICENSE.txt": "/sphene-shop/static/js/2.2e6564ce.chunk.js.LICENSE.txt",
+    "static/media/item1.c91b5b89.jpg": "/sphene-shop/static/media/item1.c91b5b89.jpg",
+    "static/media/item2.77118a19.jpg": "/sphene-shop/static/media/item2.77118a19.jpg",
+    "static/media/item3.53608b85.jpg": "/sphene-shop/static/media/item3.53608b85.jpg",
+    "static/media/item4.e6b0d3a2.jpg": "/sphene-shop/static/media/item4.e6b0d3a2.jpg",
+    "static/media/item5.1d8713ba.jpg": "/sphene-shop/static/media/item5.1d8713ba.jpg",
+    "static/media/novidade1.26c6ffee.jpg": "/sphene-shop/static/media/novidade1.26c6ffee.jpg",
+    "static/media/novidade2.00b528d3.jpg": "/sphene-shop/static/media/novidade2.00b528d3.jpg",
+    "static/media/novidade3.9fe64948.jpg": "/sphene-shop/static/media/novidade3.9fe64948.jpg",
+    "static/media/novidade4.ffe96082.jpg": "/sphene-shop/static/media/novidade4.ffe96082.jpg",
+    "static/media/novidade5.d1f91622.jpg": "/sphene-shop/static/media/novidade5.d1f91622.jpg",
+    "static/media/novidade6.e83f9be6.jpg": "/sphene-shop/static/media/novidade6.e83f9be6.jpg",
+    "static/media/slide2.cd7e554f.jpg": "/sphene-shop/static/media/slide2.cd7e554f.jpg",
     "static/media/slider.d8db0fd0.jpeg": "/sphene-shop/static/media/slider.d8db0fd0.jpeg",
     "static/media/slider1.5a6ba92d.jpeg": "/sphene-shop/static/media/slider1.5a6ba92d.jpeg",
     "static/media/slider2.591d1fe5.jpeg": "/sphene-shop/static/media/slider2.591d1fe5.jpeg",
@@ -15,7 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.84a75680.js",
-    "static/js/2.2bed6ce8.chunk.js",
-    "static/js/main.a68288cb.chunk.js"
+    "static/css/2.d649c8cc.chunk.css",
+    "static/js/2.2e6564ce.chunk.js",
+    "static/js/main.d444aba1.chunk.js"
   ]
 }
